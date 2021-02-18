@@ -1,3 +1,5 @@
 # githubgyak
 Szoftverfejlesztés gyak
-Bővített változat
+
+Main verzió
+Extra
