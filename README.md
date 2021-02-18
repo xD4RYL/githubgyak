@@ -1,4 +1,5 @@
 # githubgyak
 Szoftverfejlesztés gyak
+
 Main verzió
-Extra
+További változtatások
