@@ -1,0 +1,2 @@
+# githubgyak
+Szoftverfejlesztés gyak
